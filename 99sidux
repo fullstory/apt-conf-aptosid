@@ -1,0 +1,12 @@
+// apt defaults for sidux, revert the braindead decisions in apt 0.7
+// this is apt, not aptitude!
+APT::Get::AutomaticRemove "0";
+APT::Get::HideAutoRemove "1";
+APT::Install-Recommends "0";
+APT::Install-Suggests "0";
+Debug::pkgAutoRemove "0";
+
+// PDiffs reduce the required download for apt-get update, but increase the
+// CPU requirements and quite often fail.
+// Acquire::PDiffs "0";
+
