@@ -1,5 +1,11 @@
+apt-conf-sidux (0.1.0) unstable; urgency=low
+
+  * this package is arch=all of course.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 17 Jun 2007 23:24:30 +0200
+
 apt-conf-sidux (0.1) unstable; urgency=low
 
   * Initial Release.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 17 Jun 2007 22:48:44 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 17 Jun 2007 23:24:21 +0200

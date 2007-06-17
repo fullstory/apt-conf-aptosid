@@ -6,7 +6,7 @@ Build-Depends: cdbs, debhelper (>= 5)
 Standards-Version: 3.7.2
 
 Package: apt-conf-sidux
-Architecture: any
+Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: sidux defaults for apt
  apt 0.7 basically transforms apt into aptitude, revert to plain apt behaviour
