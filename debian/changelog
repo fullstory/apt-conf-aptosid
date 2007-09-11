@@ -1,8 +1,9 @@
 apt-conf-sidux (0.1.1) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
+  * add VCS control headers.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 17 Jun 2007 23:25:39 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 11 Sep 2007 20:07:09 +0200
 
 apt-conf-sidux (0.1.0) unstable; urgency=low
 
