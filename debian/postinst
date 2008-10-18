@@ -20,7 +20,8 @@ set -e
 
 case "$1" in
 	configure)
-		if [ -f "/etc/apt/apt.conf.d/99sidux" ] && \
+		if [ -f "/etc/apt/apt.conf.d/80sidux" ] && \
+		   [ -f "/etc/apt/apt.conf.d/99sidux" ] && \
 		   [ "x$(md5sum /etc/apt/apt.conf.d/99sidux | awk '{print $1}')" = "x80c486f7984a969fa9fcb173b2a35d76"]; then
 			rm -f /etc/apt/apt.conf.d/99sidux
 		fi

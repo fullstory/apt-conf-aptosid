@@ -1,3 +1,9 @@
+apt-conf-sidux (0.1.10) unstable; urgency=low
+
+  * the admin's decision might be different from ours, so be extra cautios.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 18 Oct 2008 19:07:47 +0200
+
 apt-conf-sidux (0.1.9) unstable; urgency=low
 
   * fix newly introduced bashism, too much java these days...
