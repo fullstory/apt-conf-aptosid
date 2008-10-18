@@ -1,8 +1,8 @@
-apt-conf-sidux (0.1.9) UNRELEASED; urgency=low
+apt-conf-sidux (0.1.9) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * fix newly introduced bashism, too much java these days...
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 18 Oct 2008 18:57:41 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 18 Oct 2008 19:03:11 +0200
 
 apt-conf-sidux (0.1.8) unstable; urgency=low
 
