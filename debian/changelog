@@ -1,3 +1,9 @@
+apt-conf-sidux (0.1.9) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 18 Oct 2008 18:57:41 +0200
+
 apt-conf-sidux (0.1.8) unstable; urgency=low
 
   * take care to remove /etc/apt/apt.conf.d/99sidux, if it's left on the
