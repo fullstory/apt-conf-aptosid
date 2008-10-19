@@ -1,3 +1,9 @@
+apt-conf-sidux (0.1.12) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 19 Oct 2008 02:47:41 +0200
+
 apt-conf-sidux (0.1.11) unstable; urgency=low
 
   * fix syntax error, thanks to op4latino for noticing.
