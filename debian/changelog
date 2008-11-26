@@ -1,3 +1,9 @@
+apt-conf-sidux (0.1.13) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 26 Nov 2008 19:39:10 +0100
+
 apt-conf-sidux (0.1.12) unstable; urgency=low
 
   * soften the language in 80sidux
