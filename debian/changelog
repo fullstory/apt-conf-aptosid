@@ -1,8 +1,10 @@
-apt-conf-sidux (0.1.13) UNRELEASED; urgency=low
+apt-conf-sidux (0.1.13) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to dpkg-source 3.0 (native) format.
+  * update years in debian/copyright.
+  * bump standards version to 3.8.4, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 26 Nov 2008 19:39:10 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 25 Apr 2010 23:41:24 +0200
 
 apt-conf-sidux (0.1.12) unstable; urgency=low
 
