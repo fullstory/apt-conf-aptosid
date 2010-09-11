@@ -3,13 +3,16 @@ Section: admin
 Priority: extra
 Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: debhelper (>= 7)
-Standards-Version: 3.8.4
+Standards-Version: 3.9.0
 Vcs-Svn: svn://svn.berlios.de/fullstory/apt-conf-sidux/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/apt-conf-sidux/trunk/
 
 Package: apt-conf-sidux
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends},
+ ${misc:Depends}
 Description: sidux defaults for apt
- apt 0.7 basically transforms apt into aptitude, revert to plain apt behaviour
- as far as that is possible.
+ apt 0.7 basically transforms apt into aptitude, revert to traditional apt
+ behaviour as far as that is possible by disabling, among others, the
+ automatic installation of recommends (and suggests), as well as disabling
+ and hiding the autoremove functionality.
