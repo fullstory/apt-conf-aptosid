@@ -1,3 +1,9 @@
+apt-conf-sidux (0.1.15) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 22 Jul 2010 00:31:11 +0200
+
 apt-conf-sidux (0.1.14) unstable; urgency=low
 
   * bump standards version to 3.9.0, no changes necessary.
