@@ -1,18 +1,32 @@
-Source: apt-conf-sidux
+Source: apt-conf-aptosid
 Section: admin
 Priority: extra
 Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: debhelper (>= 7.9.3)
 Standards-Version: 3.9.1
-Vcs-Svn: svn://svn.berlios.de/fullstory/apt-conf-sidux/trunk
-Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/apt-conf-sidux/trunk/
+Vcs-Svn: svn://svn.berlios.de/fullstory/apt-conf-aptosid/trunk
+Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/apt-conf-aptosid/trunk/
 
-Package: apt-conf-sidux
+Package: apt-conf-aptosid
 Architecture: all
 Depends: ${shlibs:Depends},
  ${misc:Depends}
-Description: sidux defaults for apt
+Description: aptosid defaults for apt
  apt 0.7 basically transforms apt into aptitude, revert to traditional apt
  behaviour as far as that is possible by disabling, among others, the
  automatic installation of recommends (and suggests), as well as disabling
  and hiding the autoremove functionality.
+
+Package: apt-conf-sidux
+Section: oldlibs
+Architecture: all
+Depends: ${shlibs:Depends},
+ ${misc:Depends},
+ apt-conf-aptosid
+Description: aptosid defaults for apt
+ apt 0.7 basically transforms apt into aptitude, revert to traditional apt
+ behaviour as far as that is possible by disabling, among others, the
+ automatic installation of recommends (and suggests), as well as disabling
+ and hiding the autoremove functionality.
+ .
+ transitional metapackage to pull in apt-conf-aptosid

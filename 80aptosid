@@ -1,4 +1,4 @@
-// apt defaults for sidux
+// apt defaults for aptosid
 // apt 0.7 introduces automatic behaviour unsuitable for sid, revert this
 
 // auto-remove breaks on meta packages
