@@ -16,17 +16,3 @@ Description: aptosid defaults for apt
  behaviour as far as that is possible by disabling, among others, the
  automatic installation of recommends (and suggests), as well as disabling
  and hiding the autoremove functionality.
-
-Package: apt-conf-sidux
-Section: oldlibs
-Architecture: all
-Depends: ${shlibs:Depends},
- ${misc:Depends},
- apt-conf-aptosid
-Description: aptosid defaults for apt
- apt 0.7 basically transforms apt into aptitude, revert to traditional apt
- behaviour as far as that is possible by disabling, among others, the
- automatic installation of recommends (and suggests), as well as disabling
- and hiding the autoremove functionality.
- .
- transitional metapackage to pull in apt-conf-aptosid
