@@ -1,8 +1,8 @@
-apt-conf-aptosid (0.2.4) UNRELEASED; urgency=low
+apt-conf-aptosid (0.2.4) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * bump standards version to 3.9.3, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 15 Jan 2012 23:50:14 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 23 Feb 2012 15:08:55 +0100
 
 apt-conf-aptosid (0.2.3) unstable; urgency=low
 
