@@ -1,8 +1,9 @@
-apt-conf-aptosid (0.2.6) UNRELEASED; urgency=low
+apt-conf-aptosid (0.2.6) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * debian/control: switch Vcs tags to github.
+  * bump standards version to 3.9.5, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 11 Jan 2013 23:43:16 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 13 Apr 2014 17:45:10 +0200
 
 apt-conf-aptosid (0.2.5) unstable; urgency=low
 
