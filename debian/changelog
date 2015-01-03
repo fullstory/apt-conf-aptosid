@@ -1,3 +1,9 @@
+apt-conf-aptosid (0.2.8) UNRELEASED; urgency=medium
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 03 Jan 2015 02:27:40 +0100
+
 apt-conf-aptosid (0.2.7) unstable; urgency=medium
 
   * simplify licensing terms to ISC.
