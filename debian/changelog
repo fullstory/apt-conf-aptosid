@@ -1,8 +1,8 @@
-apt-conf-aptosid (0.2.8) UNRELEASED; urgency=medium
+apt-conf-aptosid (0.2.8) unstable; urgency=medium
 
-  * NOT RELEASED YET
+  * fix typo in debian/copyright.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 03 Jan 2015 02:27:40 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 03 Jan 2015 02:56:23 +0100
 
 apt-conf-aptosid (0.2.7) unstable; urgency=medium
 
