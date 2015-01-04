@@ -1,3 +1,9 @@
+apt-conf-aptosid (0.2.10) UNRELEASED; urgency=medium
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 04 Jan 2015 20:15:53 +0100
+
 apt-conf-aptosid (0.2.9) unstable; urgency=medium
 
   * slightly soften the language used in the long description.
