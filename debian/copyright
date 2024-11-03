@@ -1,7 +1,7 @@
-Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: apt-conf-aptosid
 Upstream-Contact: Stefan Lippers-Hollmann <s.l-h@gmx.de>
-Source: git://github.com/fullstory/apt-conf-aptosid.git
+Source: https://github.com/fullstory/apt-conf-aptosid.git
 
 Files: *
 Copyright: 2007-2015, Stefan Lippers-Hollmann <s.l-h@gmx.de>

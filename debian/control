@@ -1,10 +1,11 @@
 Source: apt-conf-aptosid
 Section: admin
-Priority: extra
+Priority: optional
 Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
-Build-Depends: debhelper (>= 9.20120115)
-Standards-Version: 3.9.6
-Vcs-git: git://github.com/fullstory/apt-conf-aptosid.git
+Rules-Requires-Root: no
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.7.0
+Vcs-Git: https://github.com/fullstory/apt-conf-aptosid.git
 Vcs-Browser: https://github.com/fullstory/apt-conf-aptosid
 
 Package: apt-conf-aptosid
